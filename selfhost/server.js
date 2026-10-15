@@ -147,7 +147,11 @@ const limitedBody = bodyLimit({
   onError: c => {
     const incoming = c.env && c.env.incoming;
     if (incoming && !incoming.complete) incoming.resume();
-    return json(c, 413, { error: "request body exceeds 5 MB" });
+    return c.json(
+      { error: "request body exceeds 5 MB" },
+      413,
+      { ...NO_STORE, Connection: "close" }
+    );
   }
 });
 

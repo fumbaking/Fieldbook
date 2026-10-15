@@ -1,0 +1,4 @@
+id,agent,lastSeen,method,name,openCount,requestedAt,signedInAt,startCount,startedAt
+c030y0ohdmu19nmot,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Claude/1.52386.6 Chrome/152.0.7977.76 E",2026-09-14T13:16:15.276Z,guest code,Kabera,1,2026-09-14T13:16:15.276Z,2026-09-14T13:16:15.276Z,,
+c1dfb2jzsmv37m2p2,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.",2026-10-11T02:36:05.544Z,,Morris Rudakangana,1,2026-10-11T02:36:05.544Z,,0,
+c2m7tey39mv37st9z,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.",2026-10-11T02:40:04.861Z,guest code,Rudakangana Morris,1,2026-10-11T02:40:04.861Z,2026-10-11T02:40:04.861Z,,

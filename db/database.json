@@ -1,0 +1,1586 @@
+{
+  "exportedAt": "2026-10-15",
+  "source": "Fieldbook artifact database",
+  "collections": {
+    "accounts": {
+      "29zgoa1ki8zdsjkocya9": {
+        "contacts": [],
+        "createdAt": "2026-09-21T08:14:29.219Z",
+        "lastContact": null,
+        "name": "Yego motos",
+        "sector": "Government, development & NGO",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "53eg9ax0bsubf0pt8bxh": {
+        "contacts": [],
+        "createdAt": "2026-09-21T08:13:22.911Z",
+        "lastContact": null,
+        "name": "Tech experts",
+        "sector": "Government, development & NGO",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "6hu5huaafui66k5lg1ov": {
+        "contacts": [],
+        "createdAt": "2026-09-21T08:13:07.370Z",
+        "lastContact": null,
+        "name": "CCI",
+        "sector": "Government, development & NGO",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "777s90h6r83i0lcw61rn": {
+        "contacts": [],
+        "createdAt": "2026-09-21T08:12:28.004Z",
+        "lastContact": null,
+        "name": "Ishara towers",
+        "sector": "Banks & corporate offices",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "85vjx7cokjjwpmvtomkd": {
+        "contacts": [],
+        "createdAt": "2026-09-21T08:13:57.250Z",
+        "lastContact": null,
+        "name": "Riviera High school",
+        "sector": "Universities & schools",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "8yl4uwsuptv10u7sxetk": {
+        "contacts": [],
+        "createdAt": "2026-09-21T08:14:52.996Z",
+        "lastContact": null,
+        "name": "legacy clinic",
+        "sector": "Hospitals & clinics",
+        "stage": "Not contacted",
+        "updatedAt": "2026-09-22T00:00:00.000Z",
+        "valueRwf": 0
+      },
+      "929sju91b7bipo9t9i6r": {
+        "createdAt": "2026-09-07T15:09:04.473Z",
+        "lastContact": null,
+        "name": "Group scholaire Apade",
+        "sector": "Universities & schools",
+        "stage": "Not contacted",
+        "updatedAt": "2026-09-16T08:54:09.519Z",
+        "valueRwf": 0
+      },
+      "ah1w3e24l33iyk24f711": {
+        "contacts": [
+          {
+            "email": "info@excellaschool.rw",
+            "name": "",
+            "phone": "0788306085",
+            "role": "School head master"
+          }
+        ],
+        "createdAt": "2026-09-21T07:52:50.905Z",
+        "lastContact": "2026-09-16",
+        "name": "Excella high school",
+        "sector": "Universities & schools",
+        "stage": "Contacted",
+        "updatedAt": "2026-09-21T07:54:19.184Z",
+        "valueRwf": 0
+      },
+      "b01": {
+        "lastContact": null,
+        "name": "Urwego Bank",
+        "sector": "Banks & corporate offices",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "b02": {
+        "lastContact": null,
+        "name": "Vavaki",
+        "sector": "Banks & corporate offices",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "b03": {
+        "lastContact": null,
+        "name": "Mysol",
+        "sector": "Banks & corporate offices",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "b04": {
+        "lastContact": null,
+        "name": "Munyax",
+        "sector": "Banks & corporate offices",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "b05": {
+        "lastContact": null,
+        "name": "Azam",
+        "sector": "Banks & corporate offices",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "b06": {
+        "lastContact": null,
+        "name": "Petrocom",
+        "sector": "Banks & corporate offices",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "b07": {
+        "lastContact": null,
+        "name": "Horizon Logistics",
+        "sector": "Banks & corporate offices",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "b08": {
+        "lastContact": null,
+        "name": "TACT",
+        "sector": "Banks & corporate offices",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "b09": {
+        "lastContact": null,
+        "name": "SP",
+        "sector": "Banks & corporate offices",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "b10": {
+        "lastContact": null,
+        "name": "Motorola Solutions",
+        "sector": "Banks & corporate offices",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "b11": {
+        "lastContact": null,
+        "name": "ZTE Rwanda",
+        "sector": "Banks & corporate offices",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "byv9o1o3u23ncjngdbi6": {
+        "createdAt": "2026-09-07T19:22:00.614Z",
+        "lastContact": null,
+        "name": "UR",
+        "sector": "Universities & schools",
+        "stage": "Proposal out",
+        "updatedAt": "2026-09-16T08:57:10.114Z",
+        "valueRwf": 0
+      },
+      "c01": {
+        "lastContact": null,
+        "name": "Shelter Group",
+        "sector": "Construction & engineering",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "c02": {
+        "lastContact": null,
+        "name": "Fair Construction",
+        "sector": "Construction & engineering",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "c03": {
+        "lastContact": null,
+        "name": "Landmark",
+        "sector": "Construction & engineering",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "c04": {
+        "lastContact": null,
+        "name": "Hygebat",
+        "sector": "Construction & engineering",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "c05": {
+        "lastContact": null,
+        "name": "Matare",
+        "sector": "Construction & engineering",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "c06": {
+        "lastContact": null,
+        "name": "Genesis & Gilgal",
+        "sector": "Construction & engineering",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "c07": {
+        "lastContact": null,
+        "name": "Duval Consultancy",
+        "sector": "Construction & engineering",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "d7u07jf1g0fb6njg07rk": {
+        "createdAt": "2026-09-07T19:39:10.778Z",
+        "lastContact": null,
+        "name": "kristus",
+        "sector": "Universities & schools",
+        "stage": "Not contacted",
+        "updatedAt": "2026-09-16T08:53:51.716Z",
+        "valueRwf": 0
+      },
+      "da365qa88uve0fg2slc4": {
+        "contacts": [],
+        "createdAt": "2026-09-21T08:14:09.699Z",
+        "lastContact": null,
+        "name": "gt bank",
+        "sector": "Banks & corporate offices",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "e01": {
+        "contacts": [
+          {
+            "email": "info@ulk.ac.rw",
+            "name": "Ulk public phone",
+            "phone": "0788304086",
+            "role": "School phone number"
+          }
+        ],
+        "lastContact": "2026-09-08",
+        "name": "ULK",
+        "sector": "Universities & schools",
+        "stage": "Contacted",
+        "updatedAt": "2026-09-16T09:01:29.141Z",
+        "valueRwf": 0
+      },
+      "e02": {
+        "contacts": [
+          {
+            "email": "info@umst.org",
+            "name": "Mr ruti",
+            "phone": "0738300755",
+            "role": "Persona"
+          }
+        ],
+        "lastContact": "2026-09-08",
+        "name": "UMST",
+        "sector": "Universities & schools",
+        "stage": "Contacted",
+        "updatedAt": "2026-09-20T23:11:04.733Z",
+        "valueRwf": 0
+      },
+      "e03": {
+        "contacts": [
+          {
+            "email": "info@mkur.ac.rw",
+            "name": "Mt kigali reception",
+            "phone": "0788125088",
+            "role": "front desk"
+          }
+        ],
+        "lastContact": "2026-09-08",
+        "name": "Mount Kigali",
+        "sector": "Universities & schools",
+        "stage": "Contacted",
+        "updatedAt": "2026-09-20T23:16:50.300Z",
+        "valueRwf": 0
+      },
+      "e04": {
+        "contacts": [
+          {
+            "email": "info@unilak.ac.rw",
+            "name": "",
+            "phone": "0791591773",
+            "role": ""
+          }
+        ],
+        "lastContact": "2026-09-14",
+        "name": "UNILAK",
+        "sector": "Universities & schools",
+        "stage": "Contacted",
+        "updatedAt": "2026-09-21T07:52:18.032Z",
+        "valueRwf": 0
+      },
+      "e05": {
+        "contacts": [
+          {
+            "email": "info@utab.ac.rw",
+            "name": "IT manager",
+            "phone": "0786102170",
+            "role": "IT dept"
+          }
+        ],
+        "lastContact": "2026-09-08",
+        "name": "UTAB",
+        "sector": "Universities & schools",
+        "stage": "Contacted",
+        "updatedAt": "2026-09-20T23:21:11.519Z",
+        "valueRwf": 0
+      },
+      "e06": {
+        "contacts": [
+          {
+            "email": "vc@utb.ac.rw",
+            "name": "IT manager",
+            "phone": "0788305030",
+            "role": "IT"
+          }
+        ],
+        "lastContact": "2026-09-08",
+        "name": "UTB",
+        "sector": "Universities & schools",
+        "stage": "Contacted",
+        "updatedAt": "2026-09-21T07:47:34.162Z",
+        "valueRwf": 0
+      },
+      "e07": {
+        "lastContact": "2026-09-08",
+        "name": "INES Ruhengeri",
+        "sector": "Universities & schools",
+        "stage": "Contacted",
+        "updatedAt": "2026-09-21T07:49:21.041Z",
+        "valueRwf": 0
+      },
+      "e08": {
+        "contacts": [
+          {
+            "email": "",
+            "name": "Mutazihana Charles",
+            "phone": "0788517991",
+            "role": "School Proprietor"
+          }
+        ],
+        "lastContact": "2026-09-08",
+        "name": "Kigali Parents School",
+        "nextAction": "2026-09-18",
+        "sector": "Universities & schools",
+        "stage": "Contacted",
+        "updatedAt": "2026-09-21T07:51:18.922Z",
+        "valueRwf": 0
+      },
+      "g01": {
+        "lastContact": null,
+        "name": "Smart Africa",
+        "sector": "Government, development & NGO",
+        "stage": "Meeting held",
+        "updatedAt": "2026-09-07T19:58:35.911Z",
+        "valueRwf": 123000
+      },
+      "g02": {
+        "lastContact": null,
+        "name": "GIZ Sustainable Economic Development",
+        "sector": "Government, development & NGO",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "g03": {
+        "lastContact": null,
+        "name": "Rwanda Green Fund",
+        "sector": "Government, development & NGO",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "g04": {
+        "contacts": [
+          {
+            "email": "eric@green.rw",
+            "name": "Karekezi alrnold",
+            "phone": "0788319780",
+            "role": "Head of operation"
+          }
+        ],
+        "lastContact": null,
+        "name": "CARE International Rwanda",
+        "nextAction": "2026-09-13",
+        "sector": "Government, development & NGO",
+        "stage": "Meeting held",
+        "updatedAt": "2026-09-10T17:53:13.927Z",
+        "valueRwf": 4000000
+      },
+      "g05": {
+        "lastContact": null,
+        "name": "Hope International Rwanda",
+        "sector": "Government, development & NGO",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "g06": {
+        "lastContact": null,
+        "name": "Great Lakes Region Cluster",
+        "sector": "Government, development & NGO",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "g07": {
+        "lastContact": null,
+        "name": "ICDL",
+        "sector": "Government, development & NGO",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "g08": {
+        "lastContact": null,
+        "name": "North to East / Driving Global Trade",
+        "sector": "Government, development & NGO",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "g09": {
+        "lastContact": null,
+        "name": "KIAC",
+        "sector": "Government, development & NGO",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "h01": {
+        "contacts": [
+          {
+            "email": "",
+            "name": "",
+            "phone": "0787903451",
+            "role": "IT officer"
+          }
+        ],
+        "lastContact": "2026-09-15",
+        "name": "Serena Hotel",
+        "sector": "Hotels & hospitality",
+        "stage": "Contacted",
+        "updatedAt": "2026-09-21T07:56:13.914Z",
+        "valueRwf": 0
+      },
+      "h02": {
+        "contacts": [
+          {
+            "email": "",
+            "name": "Reception",
+            "phone": "2221111111",
+            "role": ""
+          }
+        ],
+        "lastContact": "2026-09-15",
+        "name": "Marriott Hotel",
+        "nextAction": "2026-09-23",
+        "sector": "Hotels & hospitality",
+        "stage": "Contacted",
+        "updatedAt": "2026-09-21T07:57:02.453Z",
+        "valueRwf": 0
+      },
+      "h03": {
+        "contacts": [
+          {
+            "email": "",
+            "name": "",
+            "phone": "0788163100",
+            "role": ""
+          }
+        ],
+        "lastContact": "2026-09-15",
+        "name": "Four Points",
+        "sector": "Hotels & hospitality",
+        "stage": "Contacted",
+        "updatedAt": "2026-09-21T08:15:24.996Z",
+        "valueRwf": 0
+      },
+      "h04": {
+        "lastContact": null,
+        "name": "Ubumwe Hotel",
+        "sector": "Hotels & hospitality",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "h05": {
+        "contacts": [
+          {
+            "email": "",
+            "name": "",
+            "phone": "0 788 192 000 | 0 788 192 530",
+            "role": "reception & IT"
+          }
+        ],
+        "lastContact": "2026-09-15",
+        "name": "Milles Collines",
+        "sector": "Hotels & hospitality",
+        "stage": "Contacted",
+        "updatedAt": "2026-09-21T08:04:24.704Z",
+        "valueRwf": 0
+      },
+      "h06": {
+        "contacts": [
+          {
+            "email": "",
+            "name": "",
+            "phone": "0 788 301 248 / +250 252 589 804",
+            "role": ""
+          }
+        ],
+        "lastContact": "2026-09-15",
+        "name": "Chez Lando",
+        "sector": "Hotels & hospitality",
+        "stage": "Contacted",
+        "updatedAt": "2026-09-21T08:05:28.126Z",
+        "valueRwf": 0
+      },
+      "h07": {
+        "contacts": [
+          {
+            "email": "",
+            "name": "",
+            "phone": "0 788 136 000 | 0 788 301 391",
+            "role": "operation manager"
+          }
+        ],
+        "lastContact": "2026-09-15",
+        "name": "Movenpick",
+        "sector": "Hotels & hospitality",
+        "stage": "Contacted",
+        "updatedAt": "2026-09-21T08:06:44.040Z",
+        "valueRwf": 0
+      },
+      "h08": {
+        "contacts": [
+          {
+            "email": "",
+            "name": "Fidele",
+            "phone": "0 788 350 519",
+            "role": "IT manager"
+          }
+        ],
+        "lastContact": "2026-09-15",
+        "name": "La Palisse Nyamata",
+        "sector": "Hotels & hospitality",
+        "stage": "Not contacted",
+        "updatedAt": "2026-09-21T08:07:26.887Z",
+        "valueRwf": 0
+      },
+      "h09": {
+        "contacts": [
+          {
+            "email": "",
+            "name": "Olga",
+            "phone": "0 789 111 457",
+            "role": "IT officer"
+          }
+        ],
+        "lastContact": "2026-09-15",
+        "name": "Highland Suites",
+        "sector": "Hotels & hospitality",
+        "stage": "Not contacted",
+        "updatedAt": "2026-09-21T08:08:30.318Z",
+        "valueRwf": 0
+      },
+      "h10": {
+        "contacts": [
+          {
+            "email": "",
+            "name": "",
+            "phone": "0 788 486 581 | 0 782 329 798",
+            "role": "front desk"
+          }
+        ],
+        "lastContact": "2026-09-15",
+        "name": "Heaven Boutique",
+        "sector": "Hotels & hospitality",
+        "stage": "Not contacted",
+        "updatedAt": "2026-09-21T08:09:18.884Z",
+        "valueRwf": 0
+      },
+      "h11": {
+        "contacts": [
+          {
+            "email": "",
+            "name": "",
+            "phone": "0 787 785 595",
+            "role": "front desk"
+          }
+        ],
+        "lastContact": "2026-09-17",
+        "name": "The Retreat",
+        "sector": "Hotels & hospitality",
+        "stage": "Contacted",
+        "updatedAt": "2026-09-21T08:10:08.831Z",
+        "valueRwf": 0
+      },
+      "h12": {
+        "contacts": [
+          {
+            "email": "",
+            "name": "",
+            "phone": "252554700",
+            "role": "front desk"
+          }
+        ],
+        "lastContact": "2026-09-16",
+        "name": "Onomo",
+        "sector": "Hotels & hospitality",
+        "stage": "Not contacted",
+        "updatedAt": "2026-09-21T08:10:48.038Z",
+        "valueRwf": 0
+      },
+      "i01": {
+        "lastContact": null,
+        "name": "Britam",
+        "sector": "Insurance",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "i02": {
+        "lastContact": null,
+        "name": "MUA",
+        "nextAction": "2026-09-14",
+        "sector": "Insurance",
+        "stage": "Contacted",
+        "updatedAt": "2026-09-09T14:23:14.289Z",
+        "valueRwf": 124000
+      },
+      "i03": {
+        "lastContact": null,
+        "name": "Prime Insurance",
+        "sector": "Insurance",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "i04": {
+        "lastContact": null,
+        "name": "Radiant",
+        "sector": "Insurance",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "i05": {
+        "lastContact": null,
+        "name": "UAP",
+        "sector": "Insurance",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "i06": {
+        "lastContact": null,
+        "name": "Mayfair",
+        "sector": "Insurance",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "i07": {
+        "lastContact": null,
+        "name": "SORAS",
+        "sector": "Insurance",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "i08": {
+        "lastContact": null,
+        "name": "SONARWA",
+        "sector": "Insurance",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "lzq5gweznq9vc5awxs2o": {
+        "contacts": [],
+        "createdAt": "2026-09-21T08:13:43.608Z",
+        "lastContact": null,
+        "name": "Kigali international school",
+        "sector": "Universities & schools",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "m01": {
+        "lastContact": null,
+        "name": "Steel Rwanda",
+        "sector": "Industry & manufacturing",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "m02": {
+        "lastContact": null,
+        "name": "Tolirwa",
+        "sector": "Industry & manufacturing",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "m03": {
+        "contacts": [],
+        "lastContact": null,
+        "name": "Alpha Cables",
+        "nextAction": null,
+        "sector": "Industry & manufacturing",
+        "stage": "Not contacted",
+        "updatedAt": "2026-09-09T22:11:18.601Z",
+        "valueRwf": 0
+      },
+      "m04": {
+        "lastContact": null,
+        "name": "Safintra",
+        "sector": "Industry & manufacturing",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "m05": {
+        "lastContact": null,
+        "name": "Volkswagen Rwanda",
+        "sector": "Industry & manufacturing",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "m06": {
+        "lastContact": null,
+        "name": "Kipharma",
+        "sector": "Industry & manufacturing",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "m07": {
+        "lastContact": null,
+        "name": "Khana Kazana",
+        "sector": "Industry & manufacturing",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "m08": {
+        "lastContact": null,
+        "name": "Roba Group",
+        "sector": "Industry & manufacturing",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "m09": {
+        "lastContact": null,
+        "name": "Kesi Investments",
+        "sector": "Industry & manufacturing",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "m10": {
+        "lastContact": null,
+        "name": "ZEIN / ASG",
+        "sector": "Industry & manufacturing",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "mex0pejmt9f710p6jebs": {
+        "createdAt": "2026-09-07T19:27:21.892Z",
+        "lastContact": null,
+        "name": "knawe",
+        "sector": "Construction & engineering",
+        "stage": "Not contacted",
+        "valueRwf": 1200000000
+      },
+      "p01": {
+        "lastContact": null,
+        "name": "Rose Garden",
+        "sector": "Serviced apartments & residences",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "p02": {
+        "lastContact": null,
+        "name": "Elizabeth",
+        "sector": "Serviced apartments & residences",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "p03": {
+        "lastContact": null,
+        "name": "Greenland",
+        "sector": "Serviced apartments & residences",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "p04": {
+        "lastContact": null,
+        "name": "Whitestone",
+        "sector": "Serviced apartments & residences",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "p05": {
+        "lastContact": null,
+        "name": "Landmark Suites",
+        "sector": "Serviced apartments & residences",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "p06": {
+        "lastContact": null,
+        "name": "Sinai Suites",
+        "sector": "Serviced apartments & residences",
+        "stage": "Not contacted",
+        "valueRwf": 0
+      },
+      "sk9dz0ptfx002x8nnjx3": {
+        "contacts": [],
+        "createdAt": "2026-09-21T08:12:42.388Z",
+        "lastContact": null,
+        "name": "Access bank",
+        "sector": "Banks & corporate offices",
+        "stage": "Contacted",
+        "updatedAt": "2026-09-21T08:15:15.637Z",
+        "valueRwf": 0
+      }
+    },
+    "activities": {
+      "40ewsdu1ct5fox1cqt6w": {
+        "accountId": "e04",
+        "accountName": "UNILAK",
+        "archived": false,
+        "contactEmail": "info@unilak.ac.rw",
+        "contactName": "",
+        "contactPhone": "0791591773",
+        "contactRole": "",
+        "createdAt": "2026-09-21T07:52:18.032Z",
+        "date": "2026-09-14",
+        "notes": "they didn't respond",
+        "outcome": "",
+        "sector": "Universities & schools",
+        "type": "Call"
+      },
+      "4eun02b32rjjhslg4no7": {
+        "accountId": "e05",
+        "accountName": "UTAB",
+        "archived": false,
+        "contactEmail": "info@utab.ac.rw",
+        "contactName": "IT manager",
+        "contactPhone": "0786102170",
+        "contactRole": "IT dept",
+        "createdAt": "2026-09-20T23:21:11.519Z",
+        "date": "2026-09-08",
+        "notes": "We sent the CEO the proposal before releasing it, waiting for confirmation.",
+        "outcome": "",
+        "sector": "Universities & schools",
+        "type": "Call"
+      },
+      "4mvz8bbtla56zk2k9qx2": {
+        "accountId": "h07",
+        "accountName": "Movenpick",
+        "archived": false,
+        "contactEmail": "",
+        "contactName": "",
+        "contactPhone": "0 788 136 000 | 0 788 301 391",
+        "contactRole": "operation manager",
+        "createdAt": "2026-09-21T08:06:44.039Z",
+        "date": "2026-09-15",
+        "notes": "They're currently satisfied with their current vendor",
+        "outcome": "",
+        "sector": "Hotels & hospitality",
+        "type": "Call"
+      },
+      "6pinsn864vkjzbnvlvjd": {
+        "accountId": "e08",
+        "accountName": "Kigali Parents School",
+        "archived": false,
+        "contactEmail": "",
+        "contactName": "Mutazihana Charles",
+        "contactPhone": "0788517991",
+        "contactRole": "School Proprietor",
+        "createdAt": "2026-09-21T07:51:18.922Z",
+        "date": "2026-09-08",
+        "notes": "We met and we found the school state of satisfaction of connectivity was on a good level, however, he provided alternative prospects who find our offer as a need.",
+        "outcome": "",
+        "sector": "Universities & schools",
+        "type": "Call"
+      },
+      "b9qplpqzi7hmhgh7z256": {
+        "accountId": "h03",
+        "accountName": "Four Points",
+        "archived": false,
+        "contactEmail": "",
+        "contactName": "",
+        "contactPhone": "0788163100",
+        "contactRole": "",
+        "createdAt": "2026-09-21T07:58:06.262Z",
+        "date": "2026-09-15",
+        "notes": "No response",
+        "outcome": "",
+        "sector": "Hotels & hospitality",
+        "type": "Call"
+      },
+      "clao8o428xbdauhvegv4": {
+        "accountId": "h02",
+        "accountName": "Marriott Hotel",
+        "archived": false,
+        "contactEmail": "",
+        "contactName": "Reception",
+        "contactPhone": "2221111111",
+        "contactRole": "",
+        "createdAt": "2026-09-21T07:57:02.453Z",
+        "date": "2026-09-15",
+        "notes": "This number didn't link!",
+        "outcome": "",
+        "sector": "Hotels & hospitality",
+        "type": "Call"
+      },
+      "comad62jw6a4ja40zop3": {
+        "accountId": "h10",
+        "accountName": "Heaven Boutique",
+        "archived": false,
+        "contactEmail": "",
+        "contactName": "",
+        "contactPhone": "0 788 486 581 | 0 782 329 798",
+        "contactRole": "front desk",
+        "createdAt": "2026-09-21T08:09:18.884Z",
+        "date": "2026-09-15",
+        "notes": "The IT Manager was off duty on Friday when I call, they vouched to share with me the contact details once they return.",
+        "outcome": "",
+        "sector": "Hotels & hospitality",
+        "type": "Call"
+      },
+      "cs603oovavh7i7k19tjw": {
+        "accountId": "h08",
+        "accountName": "La Palisse Nyamata",
+        "archived": false,
+        "contactEmail": "",
+        "contactName": "Fidele",
+        "contactPhone": "0 788 350 519",
+        "contactRole": "IT manager",
+        "createdAt": "2026-09-21T08:07:26.887Z",
+        "date": "2026-09-15",
+        "notes": "They give them 70mbps: , 30mbps: , 250 mbps: .   Fidele suggested me to share a proposal that has 100mbps and the other that has 250mbps.",
+        "outcome": "",
+        "sector": "Hotels & hospitality",
+        "type": "Call"
+      },
+      "d2ud09ed39kmdljy1y3h": {
+        "accountId": "e02",
+        "accountName": "UMST",
+        "archived": false,
+        "contactEmail": "info@umst.org",
+        "contactName": "Mr ruti",
+        "contactPhone": "0738300755",
+        "contactRole": "Persona",
+        "createdAt": "2026-09-20T23:11:04.733Z",
+        "date": "2026-09-08",
+        "notes": "",
+        "outcome": "They didn't respond",
+        "sector": "Universities & schools",
+        "type": "Call"
+      },
+      "dgajjfy5lknaic1pyxj5": {
+        "accountId": "e03",
+        "accountName": "Mount Kigali",
+        "archived": false,
+        "contactEmail": "info@mkur.ac.rw",
+        "contactName": "Mt kigali reception",
+        "contactPhone": "0788125088",
+        "contactRole": "front desk",
+        "createdAt": "2026-09-20T23:16:50.300Z",
+        "date": "2026-09-08",
+        "notes": "She sent me an email on whatsapp for the person in charge, next action is to proceed with waiting for him to respond.",
+        "outcome": "",
+        "sector": "Universities & schools",
+        "type": "Call",
+        "updatedAt": "2026-09-21T07:48:25.460Z"
+      },
+      "hnqgdpnuxhdy7tr1yx18": {
+        "accountId": "e01",
+        "accountName": "ULK",
+        "archived": false,
+        "contactEmail": "info@ulk.ac.rw",
+        "contactName": "Ulk public phone",
+        "contactPhone": "0788304086",
+        "contactRole": "School phone number",
+        "createdAt": "2026-09-16T09:01:29.141Z",
+        "date": "2026-09-08",
+        "notes": "",
+        "outcome": "They didn't respond",
+        "sector": "Universities & schools",
+        "type": "Call"
+      },
+      "nbjdgbc1phz6k45a78bv": {
+        "accountId": "h11",
+        "accountName": "The Retreat",
+        "archived": false,
+        "contactEmail": "",
+        "contactName": "",
+        "contactPhone": "0 787 785 595",
+        "contactRole": "front desk",
+        "createdAt": "2026-09-21T08:10:08.831Z",
+        "date": "2026-09-17",
+        "notes": "No response",
+        "outcome": "",
+        "sector": "Hotels & hospitality",
+        "type": "Call"
+      },
+      "pfty23ni5xnhqm03ol6k": {
+        "accountId": "h01",
+        "accountName": "Serena Hotel",
+        "archived": false,
+        "contactEmail": "",
+        "contactName": "",
+        "contactPhone": "0787903451",
+        "contactRole": "IT officer",
+        "createdAt": "2026-09-21T07:56:13.914Z",
+        "date": "2026-09-15",
+        "notes": "He told me to draft a proposal 150mbps, however, they currently have a service provider but they might consider us on a one underperforming site or branch.",
+        "outcome": "",
+        "sector": "Hotels & hospitality",
+        "type": "Call"
+      },
+      "pv6dhy1gzf338sxx2jyx": {
+        "accountId": "h05",
+        "accountName": "Milles Collines",
+        "archived": false,
+        "contactEmail": "",
+        "contactName": "",
+        "contactPhone": "0 788 192 000 | 0 788 192 530",
+        "contactRole": "reception & IT",
+        "createdAt": "2026-09-21T08:04:24.704Z",
+        "date": "2026-09-15",
+        "notes": "No response",
+        "outcome": "",
+        "sector": "Hotels & hospitality",
+        "type": "Call"
+      },
+      "q8dymnhdoxp2to7j86qi": {
+        "accountId": "ah1w3e24l33iyk24f711",
+        "accountName": "Excella high school",
+        "archived": false,
+        "contactEmail": "info@excellaschool.rw",
+        "contactName": "",
+        "contactPhone": "0788306085",
+        "contactRole": "School head master",
+        "createdAt": "2026-09-21T07:54:19.184Z",
+        "date": "2026-09-16",
+        "notes": "I reached out, however, they were content with their current supplier.",
+        "outcome": "",
+        "sector": "Universities & schools",
+        "type": "Call"
+      },
+      "qdjgqnqjf17nyebzaven": {
+        "accountId": "e06",
+        "accountName": "UTB",
+        "archived": false,
+        "contactEmail": "vc@utb.ac.rw",
+        "contactName": "IT manager",
+        "contactPhone": "0788305030",
+        "contactRole": "IT",
+        "createdAt": "2026-09-21T07:47:34.162Z",
+        "date": "2026-09-08",
+        "notes": "He would like to meet me on Thursday afternoon before 05p.m.",
+        "outcome": "",
+        "sector": "Universities & schools",
+        "type": "Call"
+      },
+      "tqr5l14wjzbyuim9t3vy": {
+        "accountId": "e07",
+        "accountName": "INES Ruhengeri",
+        "archived": false,
+        "contactEmail": "",
+        "contactName": "",
+        "contactPhone": "",
+        "contactRole": "",
+        "createdAt": "2026-09-21T07:49:21.040Z",
+        "date": "2026-09-08",
+        "notes": "No response!",
+        "outcome": "",
+        "sector": "Universities & schools",
+        "type": "Call"
+      },
+      "ul08figmnouuirgxasgo": {
+        "accountId": "h12",
+        "accountName": "Onomo",
+        "archived": false,
+        "contactEmail": "",
+        "contactName": "",
+        "contactPhone": "252554700",
+        "contactRole": "front desk",
+        "createdAt": "2026-09-21T08:10:48.038Z",
+        "date": "2026-09-16",
+        "notes": "The Airtime just got exhausted in the middle of the conversation.",
+        "outcome": "",
+        "sector": "Hotels & hospitality",
+        "type": "Call"
+      },
+      "xdkla8ye9lbssm6d160b": {
+        "accountId": "h06",
+        "accountName": "Chez Lando",
+        "archived": false,
+        "contactEmail": "",
+        "contactName": "",
+        "contactPhone": "0 788 301 248 / +250 252 589 804",
+        "contactRole": "",
+        "createdAt": "2026-09-21T08:05:28.126Z",
+        "date": "2026-09-15",
+        "notes": "No response",
+        "outcome": "",
+        "sector": "Hotels & hospitality",
+        "type": "Call"
+      },
+      "z2eu7fbhlu06bo9ydwsv": {
+        "accountId": "h09",
+        "accountName": "Highland Suites",
+        "archived": false,
+        "contactEmail": "",
+        "contactName": "Olga",
+        "contactPhone": "0 789 111 457",
+        "contactRole": "IT officer",
+        "createdAt": "2026-09-21T08:08:30.318Z",
+        "date": "2026-09-15",
+        "notes": "They will give me a call shortly by Today 05:00p.m",
+        "outcome": "",
+        "sector": "Hotels & hospitality",
+        "type": "Call"
+      }
+    },
+    "campaigns": {
+      "z020i8ohnfx6z6sukrju": {
+        "budgetRwf": 1250000,
+        "channel": "Field visits",
+        "createdAt": "2026-10-11T02:29:26.794Z",
+        "endDate": "2026-10-11",
+        "goalLeads": 40,
+        "name": "Customer service week",
+        "notes": "Hand bags to the top performing customers and 3 top referral earn a  free month service rendering.",
+        "objective": "Awareness",
+        "sector": "Universities & schools",
+        "startDate": "2026-10-10",
+        "status": "Running",
+        "updatedAt": "2026-10-11T02:30:16.200Z"
+      }
+    },
+    "followups": {
+      "1i2uj39caye7ea0s2ug7": {
+        "accountId": "e05",
+        "accountName": "UTAB",
+        "closedAt": "2026-09-30T09:06:03.427Z",
+        "createdAt": "2026-09-20T23:21:12.691Z",
+        "dueDate": "2026-09-22",
+        "said": "We sent the CEO the proposal before releasing it, waiting for confirmation.",
+        "sector": "Universities & schools",
+        "startDate": "2026-09-08",
+        "status": "Done",
+        "updatedAt": "2026-09-30T09:06:03.427Z"
+      },
+      "60681hlpq4ikqj3unf7e": {
+        "accountId": "da365qa88uve0fg2slc4",
+        "accountName": "gt bank",
+        "closedAt": "2026-09-30T09:05:38.057Z",
+        "createdAt": "2026-09-21T08:32:51.680Z",
+        "dueDate": "2026-09-17",
+        "said": "They were preoccupied with another vendor.",
+        "sector": "Banks & corporate offices",
+        "startDate": "2026-09-21",
+        "status": "Done",
+        "updatedAt": "2026-09-30T09:05:38.057Z"
+      },
+      "7rpuzzwmrx89b62m76a4": {
+        "accountId": "777s90h6r83i0lcw61rn",
+        "accountName": "Ishara towers",
+        "closedAt": "2026-09-30T09:05:41.576Z",
+        "createdAt": "2026-09-21T08:19:51.135Z",
+        "dueDate": "2026-09-17",
+        "said": "I sent them an email",
+        "sector": "Banks & corporate offices",
+        "startDate": "2026-09-14",
+        "status": "Done",
+        "updatedAt": "2026-09-30T09:05:41.576Z"
+      },
+      "9u71idrl4baxipg1xkr5": {
+        "accountId": "lzq5gweznq9vc5awxs2o",
+        "accountName": "Kigali international school",
+        "closedAt": "2026-09-30T09:05:24.102Z",
+        "createdAt": "2026-09-21T08:30:50.569Z",
+        "dueDate": "2026-09-15",
+        "said": "I sent a follow up email last week",
+        "sector": "Universities & schools",
+        "startDate": "2026-09-09",
+        "status": "Done",
+        "updatedAt": "2026-09-30T09:05:24.101Z"
+      },
+      "a6z0h4nr9ps2o6r19h3u": {
+        "accountId": "6hu5huaafui66k5lg1ov",
+        "accountName": "CCI",
+        "closedAt": "2026-09-30T09:05:33.564Z",
+        "createdAt": "2026-09-21T08:29:17.569Z",
+        "dueDate": "2026-09-16",
+        "said": "I sent them a follow-up email last week",
+        "sector": "Government, development & NGO",
+        "startDate": "2026-09-15",
+        "status": "Done",
+        "updatedAt": "2026-09-30T09:05:33.564Z"
+      },
+      "bjw1ju48samqctf6gj3z": {
+        "accountId": "e08",
+        "accountName": "Kigali Parents School",
+        "closedAt": "2026-09-30T09:06:21.815Z",
+        "createdAt": "2026-09-11T07:39:41.311Z",
+        "dueDate": "2026-10-09",
+        "said": "Today we have a meeting with the principal at 14:30p.m",
+        "sector": "Universities & schools",
+        "startDate": "2026-09-11",
+        "status": "Done",
+        "updatedAt": "2026-09-30T09:06:21.815Z"
+      },
+      "grlrh88f9bdfykfqepie": {
+        "accountId": "e07",
+        "accountName": "INES Ruhengeri",
+        "closedAt": "2026-09-30T09:06:12.914Z",
+        "createdAt": "2026-09-21T07:49:22.337Z",
+        "dueDate": "2026-09-22",
+        "said": "No response!",
+        "sector": "Universities & schools",
+        "startDate": "2026-09-08",
+        "status": "Done",
+        "updatedAt": "2026-09-30T09:06:12.914Z"
+      },
+      "h2bdh0zwf6hlgjh0hefb": {
+        "accountId": "sk9dz0ptfx002x8nnjx3",
+        "accountName": "Access bank",
+        "closedAt": "2026-09-30T09:05:53.130Z",
+        "createdAt": "2026-09-21T08:21:02.433Z",
+        "dueDate": "2026-09-18",
+        "said": "I sent them a follow up email last week.",
+        "sector": "Banks & corporate offices",
+        "startDate": "2026-09-14",
+        "status": "Done",
+        "updatedAt": "2026-09-30T09:05:53.130Z"
+      },
+      "kb37dyfhig5xy448kd3z": {
+        "accountId": "b05",
+        "accountName": "Azam",
+        "createdAt": "2026-10-11T02:32:15.811Z",
+        "dueDate": "2026-09-30",
+        "said": "They told me to install at there school on this particular day.",
+        "sector": "Banks & corporate offices",
+        "startDate": "2026-09-20",
+        "status": "Open"
+      },
+      "ondt96hzc2mwzk8d9kar": {
+        "accountId": "g04",
+        "accountName": "CARE International Rwanda",
+        "closedAt": "2026-09-30T09:06:26.818Z",
+        "createdAt": "2026-09-10T17:53:15.178Z",
+        "dueDate": "2026-10-11",
+        "said": "It was promised that if every process is smooth, we will install our equipements on Monday",
+        "sector": "Government, development & NGO",
+        "startDate": "2026-09-11",
+        "status": "Done",
+        "updatedAt": "2026-09-30T09:06:26.818Z"
+      },
+      "pthbpiu33louutswsslg": {
+        "accountId": "53eg9ax0bsubf0pt8bxh",
+        "accountName": "Tech experts",
+        "closedAt": "2026-09-30T09:05:44.952Z",
+        "createdAt": "2026-09-21T08:30:01.476Z",
+        "dueDate": "2026-09-17",
+        "said": "I sent them a follow up email last week",
+        "sector": "Government, development & NGO",
+        "startDate": "2026-09-10",
+        "status": "Done",
+        "updatedAt": "2026-09-30T09:05:44.951Z"
+      },
+      "pzx62tc1r6z984rfi4xy": {
+        "accountId": "h03",
+        "accountName": "Four Points",
+        "closedAt": "2026-09-30T09:05:27.909Z",
+        "createdAt": "2026-09-21T07:58:07.521Z",
+        "dueDate": "2026-09-15",
+        "said": "No response",
+        "sector": "Hotels & hospitality",
+        "startDate": "2026-09-15",
+        "status": "Done",
+        "updatedAt": "2026-09-30T09:05:27.909Z"
+      },
+      "sjr5c0crmqc5cuy78qvo": {
+        "accountId": "e06",
+        "accountName": "UTB",
+        "closedAt": "2026-09-30T09:06:07.550Z",
+        "createdAt": "2026-09-21T07:47:35.362Z",
+        "dueDate": "2026-09-22",
+        "said": "He would like to meet me on Thursday afternoon before 05p.m.",
+        "sector": "Universities & schools",
+        "startDate": "2026-09-08",
+        "status": "Done",
+        "updatedAt": "2026-09-30T09:06:07.550Z"
+      },
+      "thjec67dxcdqoye2hb7y": {
+        "accountId": "29zgoa1ki8zdsjkocya9",
+        "accountName": "Yego motos",
+        "closedAt": "2026-09-30T09:05:59.392Z",
+        "createdAt": "2026-09-21T08:33:29.016Z",
+        "dueDate": "2026-09-18",
+        "said": "I sent them an email.",
+        "sector": "Government, development & NGO",
+        "startDate": "2026-09-18",
+        "status": "Done",
+        "updatedAt": "2026-09-30T09:05:59.392Z"
+      },
+      "x89lmjbl0ocnwa84e2r4": {
+        "accountId": "e03",
+        "accountName": "Mount Kigali",
+        "closedAt": "2026-09-30T09:06:17.958Z",
+        "createdAt": "2026-09-20T23:16:51.491Z",
+        "dueDate": "2026-09-22",
+        "said": "She sent me an email on whatsapp for the person in charge, next action is to proceed with waiting for him to respond.",
+        "sector": "Universities & schools",
+        "startDate": "2026-09-08",
+        "status": "Done",
+        "updatedAt": "2026-09-30T09:06:17.958Z"
+      },
+      "y5cpdkaan5m38nsno37y": {
+        "accountId": "85vjx7cokjjwpmvtomkd",
+        "accountName": "Riviera High school",
+        "closedAt": "2026-09-30T09:05:49.977Z",
+        "createdAt": "2026-09-21T08:32:03.894Z",
+        "dueDate": "2026-09-17",
+        "said": "We had a conversation on the phone last week friday, and he would like me to share a proposal with him of 500mbps, however, it will be an option since they currently have a vendor who is underperforming.",
+        "sector": "Universities & schools",
+        "startDate": "2026-09-16",
+        "status": "Done",
+        "updatedAt": "2026-09-30T09:05:49.977Z"
+      }
+    },
+    "logs": {
+      "148p3dqirsf8qkkivbg8": {
+        "action": "Removed and access revoked",
+        "detail": "",
+        "subject": "Kabera Samuel",
+        "ts": "2026-09-16T23:30:23.044Z"
+      },
+      "1sg5yh65vvjut2uldd5j": {
+        "action": "Guest code changed",
+        "detail": "",
+        "subject": "Administrator",
+        "ts": "2026-09-10T07:34:47.868Z"
+      },
+      "1yvov8xjpzpjh4gdh59r": {
+        "action": "Approved for 30 min",
+        "detail": "",
+        "subject": "Kabera Samuel",
+        "ts": "2026-09-14T13:15:02.239Z"
+      },
+      "2v9y25gozf7flvsinbg2": {
+        "action": "Admin code changed",
+        "detail": "",
+        "subject": "Administrator",
+        "ts": "2026-09-07T19:11:11.269Z"
+      },
+      "36l3idb72726f3cwwfzj": {
+        "action": "Deactivated",
+        "detail": "",
+        "subject": "Fumba",
+        "ts": "2026-09-08T10:58:02.010Z"
+      },
+      "bo03urmzz89httxro1md": {
+        "action": "Deactivated",
+        "detail": "",
+        "subject": "Fumba",
+        "ts": "2026-09-07T18:40:19.038Z"
+      },
+      "caq3uwa141lhbueyoewg": {
+        "action": "Guest code changed",
+        "detail": "",
+        "subject": "Administrator",
+        "ts": "2026-09-10T17:56:29.448Z"
+      },
+      "gqdadaw6zdgjhz08172m": {
+        "action": "Deactivated",
+        "detail": "",
+        "subject": "Habimana",
+        "ts": "2026-09-07T19:23:00.958Z"
+      },
+      "igorxtjcwqbri04j39ld": {
+        "action": "Approved for 30 min",
+        "detail": "",
+        "subject": "Fumba",
+        "ts": "2026-09-07T19:41:01.434Z"
+      },
+      "je0gbizj802uoezn6e9h": {
+        "action": "Approved for 60 min",
+        "detail": "",
+        "subject": "Morris Rudakangana",
+        "ts": "2026-10-11T02:37:53.251Z"
+      },
+      "lq5y34e3h5i6ffne3lj6": {
+        "action": "Approved, standing",
+        "detail": "",
+        "subject": "Fumba",
+        "ts": "2026-09-07T19:40:04.434Z"
+      },
+      "me670k54qek7c7hakol7": {
+        "action": "Deactivated",
+        "detail": "",
+        "subject": "Mugisha",
+        "ts": "2026-09-10T17:55:48.551Z"
+      },
+      "nuasp6zlhz1vr9him9rz": {
+        "action": "Admin code changed",
+        "detail": "",
+        "subject": "Administrator",
+        "ts": "2026-09-08T10:59:58.235Z"
+      },
+      "ox7fh07teo7ojhbg20rs": {
+        "action": "Approved for 30 min",
+        "detail": "",
+        "subject": "Mugisha",
+        "ts": "2026-09-10T07:32:57.984Z"
+      },
+      "q7x29vam7k675qwk811d": {
+        "action": "Deactivated",
+        "detail": "",
+        "subject": "Fumba",
+        "ts": "2026-09-08T10:58:05.593Z"
+      },
+      "v64ftoloz7553yo7t0qi": {
+        "action": "Guest code changed",
+        "detail": "",
+        "subject": "Administrator",
+        "ts": "2026-09-14T13:16:00.052Z"
+      },
+      "wrbibyooqqwr9bbzfc10": {
+        "action": "Approved for 30 min",
+        "detail": "",
+        "subject": "Habimana",
+        "ts": "2026-09-07T19:14:17.602Z"
+      },
+      "y6qxrx7ina82cmqapj4r": {
+        "action": "Approved for 30 min",
+        "detail": "",
+        "subject": "Fumba",
+        "ts": "2026-09-07T15:09:31.619Z"
+      },
+      "y8udsarxcs1hgvsx00ad": {
+        "action": "Guest code changed",
+        "detail": "",
+        "subject": "Administrator",
+        "ts": "2026-09-07T19:54:18.545Z"
+      },
+      "z50kfh8kef6t0kggn2ea": {
+        "action": "Guest code changed",
+        "detail": "",
+        "subject": "Administrator",
+        "ts": "2026-10-11T02:39:14.478Z"
+      }
+    },
+    "quotes": {
+      "8devy1ta55lfcasnalty": {
+        "accountId": "b07",
+        "accountName": "Horizon Logistics",
+        "createdAt": "2026-09-16T23:33:27.957Z",
+        "includes": "Hardware, installation, labor",
+        "issuedDate": "2026-09-17",
+        "monthlyRwf": 2200000,
+        "notes": "",
+        "number": "KIIN-Q-202609-01",
+        "sector": "Banks & corporate offices",
+        "setupRwf": 120000,
+        "status": "Draft",
+        "validUntil": "2026-09-15"
+      }
+    },
+    "requests": {
+      "c030y0ohdmu19nmot": {
+        "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Claude/1.52386.6 Chrome/152.0.7977.76 E",
+        "lastSeen": "2026-09-14T13:16:15.276Z",
+        "method": "guest code",
+        "name": "Kabera",
+        "openCount": 1,
+        "requestedAt": "2026-09-14T13:16:15.276Z",
+        "signedInAt": "2026-09-14T13:16:15.276Z"
+      },
+      "c1dfb2jzsmv37m2p2": {
+        "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.",
+        "lastSeen": "2026-10-11T02:36:05.544Z",
+        "name": "Morris Rudakangana",
+        "openCount": 1,
+        "requestedAt": "2026-10-11T02:36:05.544Z",
+        "startCount": 0,
+        "startedAt": null
+      },
+      "c2m7tey39mv37st9z": {
+        "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.",
+        "lastSeen": "2026-10-11T02:40:04.861Z",
+        "method": "guest code",
+        "name": "Rudakangana Morris",
+        "openCount": 1,
+        "requestedAt": "2026-10-11T02:40:04.861Z",
+        "signedInAt": "2026-10-11T02:40:04.861Z"
+      }
+    },
+    "secure": {
+      "admin": {
+        "hash": "189c93fa74aa361bc24f10871cf5c58ba56eaa13a28b3ba22d78beb26a247a16",
+        "iters": 150000,
+        "salt": "a81b219f3781795c38956442721e9390",
+        "updatedAt": "2026-09-08T10:59:56.935Z"
+      }
+    },
+    "sessions": {
+      "c1dfb2jzsmv37m2p2": {
+        "decidedAt": "2026-10-11T02:37:52.612Z",
+        "minutes": 60,
+        "mode": "timed",
+        "name": "Morris Rudakangana",
+        "status": "approved"
+      }
+    },
+    "settings": {
+      "adminmeta": {
+        "set": true,
+        "updatedAt": "2026-09-08T10:59:57.607Z"
+      },
+      "guestauth": {
+        "hash": "76c06624b386573566b35b330d3045cde9da3d0c136c295214660eb52170c51d",
+        "iters": 150000,
+        "salt": "c852d29fe94678cbdc6cf9503b0a7530",
+        "updatedAt": "2026-10-11T02:39:13.914Z"
+      },
+      "profile": {
+        "email": "kiin@sales.rw",
+        "name": "Fumba Huriro",
+        "org": "Kiin Innovation Ltd",
+        "phone": "0788310979",
+        "role": "Marketing manager",
+        "updatedAt": "2026-10-11T02:33:43.466Z"
+      }
+    },
+    "stagehistory": {
+      "36wvdjia3lwuzgean3mc": {
+        "accountId": "e05",
+        "accountName": "UTAB",
+        "at": "2026-09-16T08:54:57.047Z",
+        "from": "Not contacted",
+        "sector": "Universities & schools",
+        "to": "Contacted"
+      },
+      "ecfzrqnv01pyjq0adm50": {
+        "accountId": "h03",
+        "accountName": "Four Points",
+        "at": "2026-09-21T08:15:25.506Z",
+        "from": "Not contacted",
+        "sector": "Hotels & hospitality",
+        "to": "Contacted"
+      },
+      "l8c5gvwkmq19aomll36c": {
+        "accountId": "e01",
+        "accountName": "ULK",
+        "at": "2026-09-16T08:54:12.678Z",
+        "from": "Not contacted",
+        "sector": "Universities & schools",
+        "to": "Contacted"
+      },
+      "oj2d50gxovonvuzqvqgr": {
+        "accountId": "e02",
+        "accountName": "UMST",
+        "at": "2026-09-16T08:54:36.687Z",
+        "from": "Not contacted",
+        "sector": "Universities & schools",
+        "to": "Contacted"
+      },
+      "oju7sihl0g50ycwkm54u": {
+        "accountId": "e06",
+        "accountName": "UTB",
+        "at": "2026-09-16T08:55:15.051Z",
+        "from": "Not contacted",
+        "sector": "Universities & schools",
+        "to": "Contacted"
+      },
+      "vg6u9e8zxii5zpkd90d4": {
+        "accountId": "sk9dz0ptfx002x8nnjx3",
+        "accountName": "Access bank",
+        "at": "2026-09-21T08:15:16.205Z",
+        "from": "Not contacted",
+        "sector": "Banks & corporate offices",
+        "to": "Contacted"
+      }
+    }
+  }
+}

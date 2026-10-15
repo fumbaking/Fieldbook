@@ -1,0 +1,15 @@
+{
+  "name": "kiin-fieldbook-selfhost",
+  "private": true,
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "start": "node --env-file=.env selfhost/server.js"
+  },
+  "dependencies": {
+    "@hono/node-server": "^2.1.5",
+    "hono": "^4.13.13"
+  }
+}
